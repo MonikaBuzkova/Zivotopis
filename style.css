@@ -38,6 +38,7 @@ h2 {
 
 td {
     padding: 10px 0;
+    width: 200px ;
 }
 
 .osobni-udaje {
@@ -55,4 +56,5 @@ p {
 
 .odsazeni {
     padding-left: 100px;
+    width: fit-content;
 }
